@@ -1,0 +1,5 @@
+#1.1 Comment more rather than less!
+#1.2 Every file most starts with a one sentence description.
+#2 Folders lowercase and "_" for space.
+#3 Handmade files Capitalized and camelCase.
+#4 Separate folder for every component and their support files (.css)
