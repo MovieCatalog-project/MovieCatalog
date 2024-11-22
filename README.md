@@ -1,3 +1,3 @@
 # MovieCatalog
 
-Teaser comming soon!
+Teaser coming soon!
